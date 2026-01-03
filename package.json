@@ -1,0 +1,24 @@
+{
+  "name": "benr2324-new",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ "scripts": {
+  "test": "echo \"No tests yet\"",
+  "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afifikram23/benr2324-new.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Afifikram23/benr2324-new/issues"
+  },
+  "homepage": "https://github.com/Afifikram23/benr2324-new#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
